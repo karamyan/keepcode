@@ -12,7 +12,7 @@ RUN `php artisan db:seed`
 
 You can use postman with collection file and try requests keepcode.postman_collection.json
 
-## For authorization tou can use this credentials
+## For authorization you can use this credentials
 
 grant_type - password
 
