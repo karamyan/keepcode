@@ -1,5 +1,9 @@
 ## How Run Project 
 
+RUN `cp .env.example  .env`
+
+Configure db connection
+
 RUN `composer install`
 
 RUN `php artisan migrate`
